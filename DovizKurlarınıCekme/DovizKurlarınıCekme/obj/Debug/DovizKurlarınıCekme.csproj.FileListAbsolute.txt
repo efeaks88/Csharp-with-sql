@@ -1,0 +1,13 @@
+C:\Users\efeak\source\repos\DovizKurlarınıCekme\DovizKurlarınıCekme\bin\Debug\DovizKurlarınıCekme.exe.config
+C:\Users\efeak\source\repos\DovizKurlarınıCekme\DovizKurlarınıCekme\bin\Debug\DovizKurlarınıCekme.exe
+C:\Users\efeak\source\repos\DovizKurlarınıCekme\DovizKurlarınıCekme\bin\Debug\DovizKurlarınıCekme.pdb
+C:\Users\efeak\source\repos\DovizKurlarınıCekme\DovizKurlarınıCekme\obj\Debug\DovizKurlarınıCekme.csproj.AssemblyReference.cache
+C:\Users\efeak\source\repos\DovizKurlarınıCekme\DovizKurlarınıCekme\obj\Debug\DovizKurlarınıCekme.csproj.SuggestedBindingRedirects.cache
+C:\Users\efeak\source\repos\DovizKurlarınıCekme\DovizKurlarınıCekme\obj\Debug\DovizKurlarınıCekme.csproj.CoreCompileInputs.cache
+C:\Users\efeak\source\repos\DovizKurlarınıCekme\DovizKurlarınıCekme\obj\Debug\DovizKurlarınıCekme.exe
+C:\Users\efeak\source\repos\DovizKurlarınıCekme\DovizKurlarınıCekme\obj\Debug\DovizKurlarınıCekme.pdb
+C:\Users\efeak\source\repos\DovizKurlarınıCekme\DovizKurlarınıCekme\bin\Debug\EntityFramework.dll
+C:\Users\efeak\source\repos\DovizKurlarınıCekme\DovizKurlarınıCekme\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\efeak\source\repos\DovizKurlarınıCekme\DovizKurlarınıCekme\bin\Debug\EntityFramework.xml
+C:\Users\efeak\source\repos\DovizKurlarınıCekme\DovizKurlarınıCekme\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\efeak\source\repos\DovizKurlarınıCekme\DovizKurlarınıCekme\obj\Debug\DovizKurlarınıCekme.csproj.CopyComplete
